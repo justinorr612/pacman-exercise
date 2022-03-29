@@ -1,9 +1,23 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# Title - Pacman in Motion
 
-<img src="PacMan1.png">
+This exercise uses javascript to manipulate DOM. 
+
+
+### Description
+
+This is a single page application. It a simple concept provided by the MIT xPro program.
+
+### How to 
+
+- Follow the link to this repo to check it out on Github Pages
+
+- Clone the project and run index.html
+
+
+### Roadmap for Future Improvements
+
+I may work to build this into an App game. 
+   
+   
+### License
+This product is licensed under MIT license. Please read the exact conditions under the LICENSE file.
