@@ -7,7 +7,7 @@ This is a single page application. It a simple concept provided by the MIT xPro 
 
 ### How to 
 
-Follow the link to this repo to it out on Github Pages
+Follow the link to this repo to see it on Github Pages
 
 Clone the project and run index.html
 
